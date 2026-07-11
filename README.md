@@ -7,7 +7,7 @@
 |   01  | [Click to Copy](./ClicktoCopy) | <a href="https://pcyql7.csb.app/" target="_blank">Live Preview</a> |
 |   02  | [Clock Light/Dark Mode](./ClockLightDarkMode) | <a href="https://2fks38.csb.app/" target="_blank">Live Preview</a> |
 |   03  | [Input Character Count](./InputCharacterCount) | <a href="https://dr34rv.csb.app/" target="_blank">Live Preview</a> |
-|   04  | [Increment Counter](./IncrementCounter) | <a href="https://dr34rv.csb.app/" target="_blank">Live Preview</a> |
+|   04  | [Increment Counter](./IncrementCounter) | <a href="#">Live Preview</a> |
 |   05  | [Modal & Popup](./ModalPopup) | <a href="#" target="_blank">Live Preview</a> |
 |   06  | [Progress Indicator](./PageScroll-Indicator) | <a href="#" target="_blank">Live Preview</a> |
 |   07  | [Vowels Counting](./VowelCounting) | <a href="#" target="_blank">Live Preview</a> |

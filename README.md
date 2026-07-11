@@ -4,7 +4,7 @@
 
 | ลำดับที่ |                   หัวข้อโปรเจกต์             |ตัวอย่างโปรเจกต์ (Live Preview)|
 |:----:|:------------------------------------------:|:-----------:|
-|   01  | [ชื่อโปรเจกต์ 1](./Folder_Project_1)|[Live Preview](#)|
+|   01  | [ชื่อโปรเจกต์ 1](./Folder_Project_1)|[Live Preview]([#](https://codepen.io/editor/faizbenbenyapol/pen/019f51a4-35ad-75b6-a408-cceb55bab52c))|
 |   02  | [ชื่อโปรเจกต์ 2](./Folder_Project_2)|[Live Preview](#)|
 |   03  | [ชื่อโปรเจกต์ 3](./Folder_Project_3)|[Live Preview](#)|
 |   04  | [ชื่อโปรเจกต์ 4](./Folder_Project_4)|[Live Preview](#)|

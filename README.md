@@ -4,7 +4,7 @@
 
 | ลำดับที่ |                   หัวข้อโปรเจกต์             |ตัวอย่างโปรเจกต์ (Live Preview)|
 |:----:|:------------------------------------------:|:-----------:|
-|   01  | [Click to Copy](./ClicktoCopy) | <a href="#" target="_blank">Live Preview</a> |
+|   01  | [Click to Copy](./ClicktoCopy) | <a href="https://pcyql7.csb.app/" target="_blank">Live Preview</a> |
 |   02  | [Clock Light/Dark Mode](./ClockLightDarkMode) | <a href="https://2fks38.csb.app/" target="_blank">Live Preview</a> |
 |   03  | [Input Character Count](./InputCharacterCount) | <a href="#" target="_blank">Live Preview</a> |
 |   04  | [Increment Counter](./IncrementCounter) | <a href="#" target="_blank">Live Preview</a> |

@@ -1,11 +1,13 @@
-*{
+* {
     box-sizing: border-box;
 }
-:root{
-    --primary-color:#000;
-    --secondary-color:#fff;
+
+:root {
+    --primary-color: #000;
+    --secondary-color: #fff;
 }
-body{
+
+body {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -13,10 +15,12 @@ body{
     overflow: hidden;
     margin: 0;
 }
-.time{
+
+.time {
     font-size: 60px;
 }
-.toggle{
+
+.toggle {
     cursor: pointer;
     background: var(--primary-color);
     color: var(--secondary-color);
@@ -24,16 +28,19 @@ body{
     border-radius: 4px;
     padding: 8px 12px;
     position: absolute;
-    top: 450px;
+    top: 500px;
 }
-html.dark{
-    --primary-color:#fff;
-    --secondary-color:#333;
+
+html.dark {
+    --primary-color: #fff;
+    --secondary-color: #333;
 }
-html.dark{
+
+html.dark {
     background: #111;
     color: var(--primary-color);
 }
-html{
+
+html {
     transition: all 0.5s ease-in;
 }

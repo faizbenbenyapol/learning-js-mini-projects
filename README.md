@@ -1,18 +1,30 @@
 # learning-js-mini-projects
 
-โปรเจกต์ขนาดเล็กสำหรับฝึกฝน JavaScript
+โปรเจกต์ขนาดเล็กสำหรับฝึกฝน JavaScript (อ้างอิงตามคอร์สของพี่ก้องรักสยาม)
+ไฟล์ JavaScript (`app.js`) ทั้งหมดถูกเว้นว่างไว้เพื่อให้คุณเขียนด้วยตัวเอง!
 
 | ลำดับที่ |                   หัวข้อโปรเจกต์             |ตัวอย่างโปรเจกต์ (Live Preview)|
 |:----:|:------------------------------------------:|:-----------:|
-<<<<<<< HEAD
-|   01  | [ClicktoCopy](./Project1-ClicktoCopy)|[Live Preview](https://pcyql7.csb.app/)|
-=======
-|   01  | [ชื่อโปรเจกต์ 1](./Folder_Project_1)|[Live Preview]([#](https://codepen.io/editor/faizbenbenyapol/pen/019f51a4-35ad-75b6-a408-cceb55bab52c))|
->>>>>>> 3b425d595ac1593f0e76f91cbd06852b94493177
-|   02  | [ชื่อโปรเจกต์ 2](./Folder_Project_2)|[Live Preview](#)|
-|   03  | [ชื่อโปรเจกต์ 3](./Folder_Project_3)|[Live Preview](#)|
-|   04  | [ชื่อโปรเจกต์ 4](./Folder_Project_4)|[Live Preview](#)|
-|   05  | [ชื่อโปรเจกต์ 5](./Folder_Project_5)|[Live Preview](#)|
+|   01  | [Click to Copy](./ClicktoCopy) | [Live Preview](https://codepen.io/kongruksiamstudio/full/xxoOPwX) |
+|   02  | [Clock Light/Dark Mode](./ClockLightDarkMode) | [Live Preview](https://codepen.io/kongruksiamstudio/full/wvLWPKL) |
+|   03  | [Input Character Count](./InputCharacterCount) | [Live Preview](https://codepen.io/kongruksiamstudio/full/KKjMyVd) |
+|   04  | [Increment Counter](./IncrementCounter) | [Live Preview](https://codepen.io/kongruksiamstudio/full/NWZrwNW) |
+|   05  | [Modal & Popup](./ModalPopup) | [Live Preview](https://codepen.io/kongruksiamstudio/full/ZEdOaWB) |
+|   06  | [Progress Indicator](./PageScroll-Indicator) | [Live Preview](https://codepen.io/kongruksiamstudio/full/gONMXrE) |
+|   07  | [Vowels Counting](./VowelCounting) | [Live Preview](https://codepen.io/kongruksiamstudio/full/JjQKOKM) |
+|   08  | [Scroll To Top](./ScrollToTop) | [Live Preview](https://codepen.io/kongruksiamstudio/full/PorzOGv) |
+|   09  | [Password Visibility Toggle](./Password-Visibility) | [Live Preview](https://codepen.io/kongruksiamstudio/full/ZEdOaBL) |
+|   10  | [Image Gallery Popup](./Image-Gallery-Popup) | - |
+|   11  | [Sticky Navigation](./Sticky-Navigation) | [Live Preview](https://codepen.io/kongruksiamstudio/full/MWMeOJb) |
+|   12  | [Random Notification](./Random%20Notification) | [Live Preview](https://codepen.io/kongruksiamstudio/full/mdZEqRv) |
+|   13  | [Sound Board](./SoundBoard) | - |
+|   14  | [ข้อมูลเมืองหลวง (Countries API)](./CountriesAPI) | [Live Preview](https://codepen.io/kongruksiamstudio/full/abgZVJE) |
+|   15  | [Hidden Search Widget](./Hidden%20Search%20Widget) | [Live Preview](https://codepen.io/kongruksiamstudio/full/GRbqOWL) |
+|   16  | [แอพแปลงอุณหภูมิ](./Temperature-Converter) | [Live Preview](https://codepen.io/kongruksiamstudio/full/poXbdPE) |
+|   17  | [Search Filter](./Search-Filter) | [Live Preview](https://codepen.io/kongruksiamstudio/full/dyBXZWq) |
+|   18  | [Random Image](./RandomImage-UnsplashAPI) | - |
+|   19  | [นาฬิกาจับเวลา](./Stopwatch) | [Live Preview](https://codepen.io/kongruksiamstudio/full/VwJjrWE) |
+|   20  | [แอพคำนวณค่าดัชนีมวลกาย (BMI)](./BMI-Calculator) | [Live Preview](https://codepen.io/kongruksiamstudio/pen/wvLWPqv) |
 
 ---
 
@@ -22,6 +34,7 @@
 - JavaScript
 
 ##  วิธีการใช้งาน (How to use)
-1. Clone repository นี้: `git clone <your-repo-url>`
-2. เข้าไปยังโฟลเดอร์โปรเจกต์ที่ต้องการ
-3. เปิดไฟล์ `index.html` ผ่านเว็บบราวเซอร์ หรือใช้ Live Server ใน VS Code
+1. Clone repository นี้ลงเครื่องของคุณ
+2. เลือกโฟลเดอร์โปรเจกต์ที่ต้องการเรียนรู้
+3. เขียนโค้ดในไฟล์ `app.js` ของแต่ละโฟลเดอร์
+4. รันดูผลลัพธ์ผ่านโปรแกรมจำลอง เช่น Live Server บน VS Code

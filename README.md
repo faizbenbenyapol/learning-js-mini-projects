@@ -8,9 +8,9 @@
 |   02  | [Clock Light/Dark Mode](./ClockLightDarkMode) | <a href="https://2fks38.csb.app/" target="_blank">Live Preview</a> |
 |   03  | [Input Character Count](./InputCharacterCount) | <a href="https://dr34rv.csb.app/" target="_blank">Live Preview</a> |
 |   04  | [Increment Counter](./IncrementCounter) | <a href="https://xnx2dv.csb.app/">Live Preview</a> |
-|   05  | [Modal & Popup](./ModalPopup) | <a href="#" target="_blank">Live Preview</a> |
-|   06  | [Progress Indicator](./PageScroll-Indicator) | <a href="#" target="_blank">Live Preview</a> |
-|   07  | [Vowels Counting](./VowelCounting) | <a href="#" target="_blank">Live Preview</a> |
+|   05  | [Modal & Popup](./ModalPopup) | <a href="https://82qkkn.csb.app/" target="_blank">Live Preview</a> |
+|   06  | [Progress Indicator](./PageScroll-Indicator) | <a href="https://lg5vgm.csb.app/" target="_blank">Live Preview</a> |
+|   07  | [Vowels Counting](./VowelCounting) | <a href="https://5kng3d.csb.app/" target="_blank">Live Preview</a> |
 |   08  | [Scroll To Top](./ScrollToTop) | <a href="#" target="_blank">Live Preview</a> |
 |   09  | [Password Visibility Toggle](./Password-Visibility) | <a href="#" target="_blank">Live Preview</a> |
 |   10  | [Image Gallery Popup](./Image-Gallery-Popup) | <a href="#" target="_blank">Live Preview</a> |

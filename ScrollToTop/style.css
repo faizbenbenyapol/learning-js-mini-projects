@@ -78,7 +78,7 @@ h2{
     font-size: 2rem;
     background: transparent;
     padding: 1rem;
-    border: 1px solid red;
+    border: 1px solid rgb(14, 29, 236);
     outline: none;
     cursor: pointer;
     z-index: 111;

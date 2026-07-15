@@ -11,7 +11,7 @@
 |   05  | [Modal & Popup](./ModalPopup) | <a href="https://82qkkn.csb.app/" target="_blank">Live Preview</a> |
 |   06  | [Progress Indicator](./PageScroll-Indicator) | <a href="https://lg5vgm.csb.app/" target="_blank">Live Preview</a> |
 |   07  | [Vowels Counting](./VowelCounting) | <a href="https://5kng3d.csb.app/" target="_blank">Live Preview</a> |
-|   08  | [Scroll To Top](./ScrollToTop) | Live Preview |
+|   08  | [Scroll To Top](./ScrollToTop) | <a href="https://s22dy5.csb.app/">Live Preview</a> |
 |   09  | [Password Visibility Toggle](./Password-Visibility) | Live Preview |
 |   10  | [Image Gallery Popup](./Image-Gallery-Popup) | Live Preview |
 |   11  | [Sticky Navigation](./Sticky-Navigation) | Live Preview |

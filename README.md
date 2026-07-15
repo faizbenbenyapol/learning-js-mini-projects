@@ -12,7 +12,7 @@
 |   06  | [Progress Indicator](./PageScroll-Indicator) | <a href="https://lg5vgm.csb.app/" target="_blank">Live Preview</a> |
 |   07  | [Vowels Counting](./VowelCounting) | <a href="https://5kng3d.csb.app/" target="_blank">Live Preview</a> |
 |   08  | [Scroll To Top](./ScrollToTop) | <a href="https://s22dy5.csb.app/">Live Preview</a> |
-|   09  | [Password Visibility Toggle](./Password-Visibility) | Live Preview |
+|   09  | [Password Visibility Toggle](./Password-Visibility) | <a href="https://kz5hff.csb.app/">Live Preview</a> |
 |   10  | [Image Gallery Popup](./Image-Gallery-Popup) | Live Preview |
 |   11  | [Sticky Navigation](./Sticky-Navigation) | Live Preview |
 |   12  | [Random Notification](./Random%20Notification) | Live Preview |
